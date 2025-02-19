@@ -1,13 +1,13 @@
 ### Hi there, I'm Dilan 👋
 
-I'm a passionate software developer and tech enthusiast. Welcome to my GitHub profile!
+I'm a young passionate software developer and tech enthusiast studying in Singapore. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced concepts in machine learning and AI.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about software development, AI, and open-source contribution.
-- 📫 How to reach me: [dilan@example.com](mailto:dilan@example.com)
-- ⚡ Fun fact: I'm a movie buff and a gaming enthusiast.
+- 📫 How to reach me: [dilan.subhu@gmail.com](mailto:dilan.subhu@gmail.com)
+- ⚡ Fun fact: I'm a gaming enthusiast!
 
 ### GitHub Stats
 
