@@ -2,10 +2,8 @@
 
 I'm a young passionate software developer and tech enthusiast studying in Singapore. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced concepts in machine learning and AI.
+- 🌱 I’m currently learning through mainly Udemy courses to become a great software engineer.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
-- 💬 Ask me about software development, AI, and open-source contribution.
 - 📫 How to reach me: [dilan.subhu@gmail.com](mailto:dilan.subhu@gmail.com)
 - ⚡ Fun fact: I'm a gaming enthusiast!
 
